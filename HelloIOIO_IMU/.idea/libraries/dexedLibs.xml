@@ -1,0 +1,32 @@
+<component name="libraryTable">
+  <library name="dexedLibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroid-4bdc40546279f800a8024a1e716b2be5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibbt-7a389dbaca841d871532ef84c34aa1a1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibaccessory-6efd22a75fc3a986e7392f8d01970def.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/annotations-ccc4a1d400a5cb6b63e82753d97867e8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibaccessory-b363324011eff1aebd9e3d6694aa6cb1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroid-a10b4f32deab7a217f75f1abe0b74b7d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/annotations-8a8b0cc023eb81b89b400dbca2c6a25d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibbt-2d43ae227af4980e7333badb18d20b6a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroid-52bb6296dad5932edaf1ba70764803c8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/annotations-e258a2c2dd08ddff99fa10d1ef592c47.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroid-52a2ea865870d04766c37faa7a0229cb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibaccessory-d9a892354c774c960ac5b77d3f152c81.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibaccessory-b42f1c313acc8abcc8dece99e53ab690.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroiddevice-17ca8a899dc37810d3e835aeeb8d0d88.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/annotations-a02807906f58ba31e16f03331052b303.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroiddevice-3e6bf349cc41ab60b5d1c7e5e725ed92.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroiddevice-13a70075d51ea90689bd9ba9b5a5bb78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibaccessory-f1a46bb9d0403752f4fdd8f74f9f4194.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroid-55f62abe8100bc5a65bdd85aca6b4325.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroiddevice-f4f785bf04c903dea8acd0743838783a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibandroiddevice-5e0113d88a4bdbd516377fb8965cc8d3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibbt-31531fe922e03efd722a50461cf2e1e7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibbt-e364d85d3eef0d139abb6bb653d2ff11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloIOIOioioacel/bin/dexedLibs/ioiolibbt-0ae9e0dbde1f3b49f31b02ed191320c9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
